@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Inventory feature","User add to cart and remove the single product from inventory page","SUCCESS","2022-10-31T17:39:21.882+07:00[Asia/Barnaul]","0.0","4.65"
+"Inventory feature","User add to cart and remove the multi products from inventory page","SUCCESS","2022-10-31T17:39:26.553+07:00[Asia/Barnaul]","0.0","3.4"
+"Inventory feature","User add to cart and remove the product from product detail","SUCCESS","2022-10-31T17:39:29.966+07:00[Asia/Barnaul]","0.0","3.13"
+"Login feature","Login with correct credentials","SUCCESS","2022-10-31T17:39:33.1+07:00[Asia/Barnaul]","0.0","2.67"
+"Login feature","Login with invalid credentials","SUCCESS","2022-10-31T17:39:35.775+07:00[Asia/Barnaul]","0.0","10.92"

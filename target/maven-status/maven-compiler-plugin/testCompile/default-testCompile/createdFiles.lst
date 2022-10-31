@@ -1,0 +1,4 @@
+myHooks\ApplicationHooks.class
+stepDefinitions\LoginPageSteps.class
+testrunners\MySerenityTest.class
+stepDefinitions\InventorySteps.class
